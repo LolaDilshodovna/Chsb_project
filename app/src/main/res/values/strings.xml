@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Shopping_Android_application</string>
+    <string name="create_account" translatable="false">Create Account</string>
+    <string name="forgot_your_password" translatable="false">Forgot your password?</string>
+    <string name="bookstore" translatable="false">KFC food</string>
+    <string name="no_fav_books" translatable="false">No Favorite</string>
+    <string name="my_cart" translatable="false">My Cart</string>
+    <string name="items" translatable="false">Items</string>
+    <string name="total_price" translatable="false">Total Price</string>
+    <string name="total_cost" translatable="false">Total cost</string>
+    <string name="item" translatable="false">item</string>
+    <string name="favourites" translatable="false">Favourites</string>
+    <string name="choose" translatable="false">uz</string>
+
+</resources>

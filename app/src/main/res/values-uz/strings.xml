@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Shopping_Android_application</string>
+    <string name="create_account" translatable="false">Akkaunt yarating</string>
+    <string name="forgot_your_password" translatable="false">parolni unutingzmi?</string>
+    <string name="bookstore" translatable="false">KFC ovqatlari</string>
+    <string name="no_fav_books" translatable="false">Saqlangalar yoq</string>
+    <string name="my_cart" translatable="false">Mening savatim</string>
+    <string name="items" translatable="false">Items</string>
+    <string name="total_price" translatable="false">Umumiy narx</string>
+    <string name="total_cost" translatable="false">Umumiy narx</string>
+    <string name="item" translatable="false">item</string>
+    <string name="favourites" translatable="false">Favourites</string>
+    <string name="choose" translatable="false">uz</string>
+
+</resources>
